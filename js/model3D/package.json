@@ -16,7 +16,7 @@
 		"@gradio/wasm": "workspace:^",
 		"@types/babylon": "^6.16.6",
 		"babylonjs": "^7.25.1",
-		"babylonjs-loaders": "^7.25.1",
+		"babylonjs-loaders": "^8.3.1",
 		"dequal": "^2.0.2",
 		"gsplat": "^1.0.5"
 	},
