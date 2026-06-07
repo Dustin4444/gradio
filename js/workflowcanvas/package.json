@@ -23,13 +23,13 @@
 		"@gradio/statustracker": "workspace:^",
 		"@gradio/utils": "workspace:^",
 		"@huggingface/hub": "^1.0.0",
-		"svelte": "^5.48.0"
+		"svelte": "^5.55.7"
 	},
 	"devDependencies": {
 		"@gradio/preview": "workspace:^"
 	},
 	"peerDependencies": {
-		"svelte": "^5.48.0"
+		"svelte": "^5.55.7"
 	},
 	"repository": {
 		"type": "git",
