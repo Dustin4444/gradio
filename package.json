@@ -52,7 +52,7 @@
 		"@vitest/browser-playwright": "^4.0.18",
 		"autoprefixer": "^10.4.21",
 		"cross-env": "^10.1.0",
-		"esbuild": "^0.25.10",
+		"esbuild": "^0.28.1",
 		"eslint": "^9.37.0",
 		"eslint-plugin-svelte": "^3.12.4",
 		"globals": "^16.4.0",
