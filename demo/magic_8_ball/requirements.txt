@@ -5,3 +5,5 @@ torch
 pydub
 transformers
 huggingface_hub
+aiohttp>=3.14.0 # not directly required, pinned by Snyk to avoid a vulnerability
+gradio>=6.15.1 # not directly required, pinned by Snyk to avoid a vulnerability
